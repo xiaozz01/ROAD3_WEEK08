@@ -1,0 +1,6 @@
+casino = await factory.deploy()
+factory = await factory
+factory = ethers.getContractFactory("Casino")
+BigNumber { value: "48335146483888624" }
+balance0 = await ethers.provider.getBalance((await ethers.getSigner()).address)
+signer = await ethers.getSigner();signer = await ethers.getSigner();
